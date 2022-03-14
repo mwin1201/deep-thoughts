@@ -4,19 +4,23 @@
 
   ## Screenshots
   Homepage
+
   ![deep_thought_homepage](https://user-images.githubusercontent.com/90287696/158211788-fd0bf2e0-ba93-498e-9ac1-37fa2fafb616.png)
 
   Login
+
   ![deep_thought_login](https://user-images.githubusercontent.com/90287696/158211786-0984db78-91bf-45b7-bf8f-18a18407c16a.png)
 
   Signup
+
   ![deep_thought_signup](https://user-images.githubusercontent.com/90287696/158211783-772da4fe-3a44-4a95-aae8-327f4d57375c.png)
 
   Add Friends
+
    ![deep_thought_addFriends](https://user-images.githubusercontent.com/90287696/158211780-cf4685a7-2bb0-47a3-9d19-8d2ded6ac5a7.png)
 
   ## Description
-  MERN application allowing users to sign-up and login to begin posting thoughts they have. Users can comment on thoughts when they are logged in. GraphQL and Apollo are utilized alongside MongoDB to ensure the requests get fulfilled.
+  MERN application allowing users to sign-up and login to begin posting thoughts they have. Users can 'react' on thoughts when they are logged in. Users can also add others as Friends to quickly checkout what they are posting. GraphQL and Apollo are utilized alongside MongoDB to ensure the requests get fulfilled.
 
   ## Table of Contents
   1. [Installation](#installation)
